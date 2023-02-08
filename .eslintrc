@@ -1,13 +1,18 @@
 {
+    "root": true,
+    "plugins": [
+        "react",
+        "react-hooks",
+        "jsx-a11y",
+        "prettier"
+    ],
     "env": {
         "browser": true,
         "es2021": true,
-        "node": true,
-        "commonjs": true,
-        "es6": true
+        "commonjs": true
     },
     "extends": [
-        "eslint:recommended",
+        "airbnb",
         "plugin:react/recommended"
     ],
     "parser": "babel-eslint",
