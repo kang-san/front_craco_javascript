@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/loginsystem.iml" filepath="$PROJECT_DIR$/.idea/loginsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/front_croco_javascript.iml" filepath="$PROJECT_DIR$/.idea/front_croco_javascript.iml" />
     </modules>
   </component>
 </project>
